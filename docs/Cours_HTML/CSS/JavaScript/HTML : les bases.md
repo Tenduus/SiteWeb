@@ -32,3 +32,6 @@ Ces balises sont _communes à tous sites web_ et représente la bases sur laquel
 5. Les images :
     * pour intégrer une image, il faut utiliser la balises **`<img>`**, elle s'utilise ainsi : `<img src="image.png" alt="nom de l'image" >`
     
+    
+    
+    
