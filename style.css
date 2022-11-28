@@ -1,0 +1,107 @@
+
+img {
+ width : 550px;
+ height : 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+p {
+  color : black;
+  flex-wrap: wrap;
+  font-size: 1rem;
+  justify-content: space-between;
+}
+
+html {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+
+h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+h4 {
+   font-size: 1rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+ol {
+  font-size: 1rem;
+  text-align: match-parent;
+}
+
+#presentation {
+  background-color: #FFFAE1;
+  padding: 10px 0px 100px 0;
+}
+
+#prestations {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px 10%;  
+}
+
+#texteIntro {
+  padding: 0px 20%;
+}
+
+/******* footer ******/
+footer {
+  background-color: #524A3A;
+  color: #FFFAE1;
+  padding: 20px 0 10px 0;
+  text-align: center;
+}
+form {
+  margin: 0 auto;
+  max-width: 900px;
+}
+input, textarea, button {
+  border: none;
+  width: 55%;
+  padding: 15px 10px;
+  margin: 1px 0;
+  font-size: 1.2em;
+  font-family: 'Advent Pro', sans-serif;
+  border-radius: 8px;
+}
+textarea {
+  height: 120px;
+}
+button {
+  font-size: 1.5em;
+  background-color: #FFFAE1;
+}
+button:hover {
+  background-color: #e55039;
+  color: #FFFAE1;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+#deuxiemeTrait {
+  height: 1px;
+  width: 75%;
+  background-color: #FFFAE1;
+  margin: 60px auto;
+}
+
+
+
+
